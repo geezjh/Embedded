@@ -1,0 +1,3 @@
+Hello, this is a test file for UDP download.
+It contains some simple English sentences.
+Let's see if the UDP file transfer works properly.
